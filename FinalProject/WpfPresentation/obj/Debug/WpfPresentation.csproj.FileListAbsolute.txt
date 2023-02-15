@@ -1,0 +1,193 @@
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.dll
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.dll
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.dll
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.g.cs
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\App.g.cs
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.baml
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.exe
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.pdb
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\CabinDetailWindow.g.cs
+C:\Users\Molly\Desktop\.net\dot_net_ii\cabin_lab\CabinRentalApp\WpfPresentation\obj\Debug\CabinDetailWindow.baml
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.dll
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.dll
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.dll
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\CabinDetailWindow.g.cs
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.g.cs
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\App.g.cs
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\CabinDetailWindow.baml
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.baml
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.exe
+C:\School\DotNet2\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.exe
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\WpfPresentation.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.dll
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.dll
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.dll
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataObjects.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\LogicLayer.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\App.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\MainWindow.baml
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.exe
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.pdb
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\WpfPresentation.csproj.SuggestedBindingRedirects.cache
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\GameDetailsWindow.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\GameDetailsWindow.baml
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\PlayerWindow.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\StatsWindow.g.cs
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\PlayerWindow.baml
+G:\School stuff\.Net2\CabinRentalApp (3mncstry)\CabinRentalApp\WpfPresentation\obj\Debug\StatsWindow.baml
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.dll
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.dll
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.dll
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.SuggestedBindingRedirects.cache
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.g.cs
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.g.cs
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.g.cs
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\App.g.cs
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.baml
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.baml
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.baml
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.exe
+D:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.dll
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.dll
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.dll
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.AssemblyReference.cache
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.SuggestedBindingRedirects.cache
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.g.cs
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.g.cs
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.g.cs
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\App.g.cs
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.baml
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.baml
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.baml
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.exe
+G:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe.config
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.exe
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\WpfPresentation.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.dll
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.dll
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.dll
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.dll
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.dll
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataObjects.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayerInterfaces.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\LogicLayer.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayerInterfaces.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\bin\Debug\DataAccessLayer.pdb
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csprojAssemblyReference.cache
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.g.cs
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.g.cs
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.g.cs
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.g.cs
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\App.g.cs
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.cache
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation_MarkupCompile.lref
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\GameDetailsWindow.baml
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\MainWindow.baml
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\StatsWindow.baml
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\UpdatePasswordWindow.baml
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.g.resources
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.Properties.Resources.resources
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.GenerateResource.cache
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CoreCompileInputs.cache
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.csproj.CopyComplete
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.exe
+E:\School stuff\.Net2\FinalProject\WpfPresentation\obj\Debug\WpfPresentation.pdb

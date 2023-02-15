@@ -1,0 +1,98 @@
+﻿<Window x:Name="frmMain" x:Class="WpfPresentation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfPresentation"
+        mc:Ignorable="d"
+        Title="Mncs Valorant " Height="800" Width="1200" WindowStartupLocation="CenterOwner" Loaded="frmMain_Loaded">
+    <!-- main window grid -->
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <!--menu-->
+            <RowDefinition Height="70"/>
+            <!--password area-->
+            <RowDefinition Height="10"/>
+            <!--spacer-->
+            <RowDefinition />
+            <!--tab set grid-->
+            <RowDefinition Height="50"/>
+            <!-- reserved for now -->
+            <RowDefinition Height="35"/>
+            <!-- status bar -->
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Padding="20, 3">
+            <MenuItem x:Name="mnuFile" Header="File">
+                <MenuItem x:Name="mnuExit" Header="Exit"></MenuItem>
+            </MenuItem>
+
+            <MenuItem x:Name="mnuEdit" Header="Edit">
+                <MenuItem x:Name="mnuChangePassword" Header="Update/Change Passoword" Click="mnuChangePassword_Click"></MenuItem>
+            <MenuItem x:Name="mnuPreferences" Header="Preferences"></MenuItem>
+            </MenuItem>
+
+            <MenuItem x:Name="mnuHelp" Header="Help">
+                <MenuItem x:Name="mnuAbout" Header="About"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <!-- password area grid -->
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="120"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="lblGreeting" Content="You are not logged in." Padding="20 5 0 0" Margin="5" />
+            <TextBox x:Name="txtEmail" Margin="5 5 5 0" Grid.Column="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  />
+            <PasswordBox x:Name="txtPassword" Margin="5 5 5 0" Grid.Column="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+            <Button x:Name="btnLogin" Margin="5 5 20 5" Grid.Column="3" Content="Login" Click="btnLogin_Click" />
+            <Label x:Name="lblEmail" Grid.Row="1" Grid.Column="1" Content="Email Address" HorizontalAlignment="Center"/>
+            <Label x:Name="lblPassword" Grid.Row="1" Grid.Column="2" Content="Password" HorizontalAlignment="Center"/>
+            <!-- password area grid -->
+            
+        </Grid>
+        
+        <!--tab set grid-->
+
+        <StackPanel x:Name="pnlTabs" Grid.Row="3">
+            <Grid Height="1000">
+                <TabControl x:Name="tabsetMain">
+                    <TabItem x:Name="tabMatches" Header="Matches Played" GotFocus="tabMatches_GotFocus">
+
+                        <DataGrid x:Name="datMatches" IsReadOnly="True" FontSize="18" FontFamily="Tahoma" Margin="10" Background="Chartreuse" MouseDoubleClick="datMatches_MouseDoubleClick"/>
+
+                    </TabItem>
+                    <TabItem x:Name="tabPlayers" Header="Players in League"  GotFocus="tabPlayer_GotFocus">
+                        <DataGrid x:Name="datPlayers" IsReadOnly="True" FontSize="18" FontFamily="Tahoma" Margin="10" Background="Chartreuse"/>
+                    </TabItem>
+                    <TabItem x:Name="tabTeams" Header="Teams" GotFocus="tabTeams_GotFocus">
+                        <DataGrid x:Name="datTeams" IsReadOnly="True" FontSize="18" FontFamily="Tahoma" Margin="10" Background="Chartreuse"/>
+                    </TabItem>
+                    <TabItem x:Name="tabAgents" Header="Agents"  GotFocus="tabAgents_GotFocus"  >
+                        <DataGrid x:Name="datAgents" IsReadOnly="True" FontSize="18" FontFamily="Tahoma" Margin="10" Background="Chartreuse"   />
+                    </TabItem>
+                    <TabItem x:Name="tabStats" Header="Stats of Players"  GotFocus="tabStats_GotFocus">
+
+                        <DataGrid x:Name="datStats" IsReadOnly="True" FontSize="18" FontFamily="Tahoma" Margin="10" Background="Chartreuse" MouseDoubleClick="datStats_MouseDoubleClick" />
+                        
+                    </TabItem>
+                </TabControl>
+            </Grid>
+        </StackPanel>
+        <!--tab set grid-->
+
+
+        <StatusBar Grid.Row="5">
+            <StatusBarItem x:Name="statMessage" Padding="20 0">
+                Welcome. Please log in to continue...
+            </StatusBarItem>
+        </StatusBar>
+        <!-- main window grid -->
+    </Grid>
+</Window>

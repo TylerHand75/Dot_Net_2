@@ -1,0 +1,50 @@
+﻿<Window x:Class="WpfPresentation.CabinDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfPresentation"
+        mc:Ignorable="d"
+        Title="CabinDetailWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="45"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition />
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.ColumnSpan="2" Grid.Row="1" HorizontalContentAlignment="Center" FontSize="20" FontWeight="DemiBold" VerticalContentAlignment="Center">Cabin Detail</Label>
+        
+        <Label Grid.Column="0" Grid.Row="3" HorizontalContentAlignment="Right" FontSize="15" Padding="0 5 10 0">Site:</Label>
+        <TextBox x:Name="txtSite" Grid.Column="1" Grid.Row="3" HorizontalContentAlignment="Left" FontSize="15" Margin="10 2 100 2" />
+
+        <Label Grid.Column="0" Grid.Row="4" HorizontalContentAlignment="Right" FontSize="15" Padding="0 5 10 0">Trail:</Label>
+        <TextBox x:Name="txtTrail" Grid.Column="1" Grid.Row="4" HorizontalContentAlignment="Left" FontSize="15" Margin="10 2 100 2" />
+
+        <Label Grid.Column="0" Grid.Row="5" HorizontalContentAlignment="Right" FontSize="15" Padding="0 5 10 0">Cabin Type:</Label>
+        <TextBox x:Name="txtType" Grid.Column="1" Grid.Row="5" HorizontalContentAlignment="Left" FontSize="15" Margin="10 2 100 2" />
+
+        <Label Grid.Column="0" Grid.Row="6" HorizontalContentAlignment="Right" FontSize="15" Padding="0 5 10 0">Status:</Label>
+        <TextBox x:Name="txtStatus" Grid.Column="1" Grid.Row="6" HorizontalContentAlignment="Left" FontSize="15" Margin="10 2 100 2" />
+
+       <!-- <DataGrid x:Name="datAmenities" Grid.Row="7" Grid.ColumnSpan="2" Margin="20" IsReadOnly="True" SelectionUnit="FullRow" RenderTransformOrigin="0.5,0.5"></DataGrid>-->
+        <ListView x:Name="lstAmenities" Grid.Row="7" Grid.ColumnSpan="2" Margin="20"  RenderTransformOrigin="0.5,0.5"></ListView>
+        
+        
+        <Button x:Name="btnRent" Grid.Row="8" Grid.Column="0" Width="100" Height="35" HorizontalAlignment="Right" Margin="0 0 10 0">Rent Now</Button>
+        <Button x:Name="btnCancel" Grid.Row="8" Grid.Column="1" Width="100" Height="35" HorizontalAlignment="Left" Margin="10 0 0 0">Cancel</Button>
+
+
+    </Grid>
+</Window>

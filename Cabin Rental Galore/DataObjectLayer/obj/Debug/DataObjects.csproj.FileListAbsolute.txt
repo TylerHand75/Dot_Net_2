@@ -1,0 +1,12 @@
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjectLayer.pdb
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\bin\Debug\DataObjectLayer.dll
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\bin\Debug\DataObjectLayer.pdb
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjectLayer.dll
+G:\School stuff\.Net2\Cabin Rental Galore\DataObjectLayer\obj\Debug\DataObjectLayer.pdb

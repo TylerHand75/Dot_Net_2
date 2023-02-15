@@ -1,0 +1,18 @@
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataAccessLayerINterfaces.dll
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataAccessLayerINterfaces.pdb
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataObjectLayer.dll
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataObjectLayer.pdb
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.AssemblyReference.cache
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CopyComplete
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerINterfaces.dll
+C:\Users\tyler\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerINterfaces.pdb
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataAccessLayerINterfaces.dll
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataAccessLayerINterfaces.pdb
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataObjectLayer.dll
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\bin\Debug\DataObjectLayer.pdb
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.AssemblyReference.cache
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CoreCompileInputs.cache
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerInterfaces.csproj.CopyComplete
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerINterfaces.dll
+G:\School stuff\.Net2\Cabin Rental Galore\DataAccessLayerINterfaces\obj\Debug\DataAccessLayerINterfaces.pdb
